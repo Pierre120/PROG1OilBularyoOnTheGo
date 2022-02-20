@@ -1,0 +1,102 @@
+
+1.	Main menu
+	> invalid letters
+	> Exit option
+	> Top 10 List option
+		- w/o records
+		- w/ records
+
+2.	Game menu
+	> display
+		- available stocks
+		- unavailable stocks
+		- settings box availability
+	> invalid letters
+	
+3.	Settings menu
+	> invalid inputs
+		- letter
+		- amount
+	> cancel change
+	> change travel span
+	> go back to Main Menu
+
+4.	Buy menu
+	> choices display
+		- unavailable stocks
+		- insufficient money
+		- available buy
+	> max buy 
+		- money > stocks
+		- money < stocks
+		- no stocks
+		- insufficient cash
+	> invalid inputs
+		- Letter
+		- Amount
+	> cancel buy
+	> buy essential oils
+	> go back to main menu
+
+5.	Sell Menu
+	> invalid letters
+	
+6.	Ess oil sell menu
+	> choices display
+		- no stock-on-hand
+		- available sell
+	> max sell = stocks
+	> invalid inputs
+		- letters
+		- amount
+	> cancel sell
+	> sell essential oils
+	> go back to sell menu/game menu
+	
+7.	Diff oil sell menu
+	> choices display
+		- no stock-on-hand
+		- available sell
+	> max sell = stocks
+	> invalid inputs
+		- letters
+		- amount
+	> cancel sell
+	> sell essential oils
+	> go back to sell menu/game menu
+	
+8.	Make menu
+	> choices display
+		- insufficient ingredients/cash
+		- available sell 
+	> max make
+		- cash < ingredients
+		- cash > ingredients 
+	> invalid inputs
+		- letters
+		- amount
+	> cancel make 
+	> make diffuser oils
+	> go back to sell menu/game menu
+	
+9.	Pay debt menu
+	> invalid input
+	> pay debt
+	> go back to sell menu/game menu
+	
+10.	Loan menu
+	> invalid input
+	> loan
+	> go back to sell menu/game menu
+	
+11.	Travel menu 
+	> invalid input
+	> travel
+	> go back to sell menu/game menu
+	
+12.	Top 10 list
+	> only few top 10 listers
+	> full top 10 listers
+		- player was not able to enter top 10
+		- player was able to enter top 10
+
